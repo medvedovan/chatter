@@ -1,2 +1,2 @@
-# chatly
+# Chatter
 Chat application 
